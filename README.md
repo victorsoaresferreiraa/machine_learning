@@ -1,6 +1,10 @@
 # Aprendendo sobre Machine Learning 
     Aprendizado de Maquina 
 
+# Iniciando o ambiente
+    pip install poetry
+    poetry shell 
+
 ## Caso o Sklearn não rode o codigo, faça as seguintes alterações 
 
 ## Verifique se o scikit-learn está instalado corretamente:

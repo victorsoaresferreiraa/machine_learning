@@ -20,3 +20,10 @@
     No topo direito do notebook, clique no nome do kernel (geralmente mostra o interpretador Python atualmente em uso).
     
     Selecione o kernel venv (ou o nome do seu ambiente virtual) na lista.
+
+## Caso o Graphviz não funcione faça as seguintes alterações 
+Acesse 
+    https://www.graphviz.org/download/ </br>
+    Instale a versão mais recente 
+    
+    na instalação coloque "add graphvz to the system path for current user"
